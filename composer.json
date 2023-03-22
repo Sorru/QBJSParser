@@ -1,8 +1,8 @@
 {
-  "name": "fourlabs/qbjs-parser",
+  "name": "endeavourplatforms/qbjs-parser",
   "description": "Parse JSON coming from jQuery QueryBuilder, into database queries.",
   "license": "MIT",
-  "homepage": "https://github.com/fourlabsldn/QBJSParser",
+  "homepage": "https://github.com/endeavourplatforms/QBJSParser",
   "keywords": [
     "PHP","QBJSParser", "QBJS",
     "Parser", "Symfony", "Doctrine",
@@ -11,8 +11,8 @@
   ],
   "authors": [
     {
-      "name": "Four Labs",
-      "homepage": "https://fourlabs.co.uk"
+      "name": "Endeavour",
+      "homepage": "https://endeavour.nl/"
     }
   ],
   "require": {
